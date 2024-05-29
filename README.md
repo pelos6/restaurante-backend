@@ -1,5 +1,7 @@
 # RESTAURANTE BACKEND
 
+* repositorio de ejemplo par el curso con Juanda JAVIER
+
 ## Descripción
 
 - Un contenedor con una base de datos mysql llamada restaurante y un esquema de base de datos según ./data/initData/database.sql
